@@ -1,0 +1,14 @@
+* Open XAMPP 
+* start server : ( Apache , MYSQL )
+* open browser
+* type in URL : localhost/phpmyadmin/
+* create database named : "laravel_task_manager"
+
+* Unzip the fproject folder in C:\xampp\htdocs
+* Move to Directory of the project : C:\xampp\htdocs\task_manager_\task_manager
+* Open this Folder with vs code
+* open terminal and type and PRESS enter : php artisan migrate
+* open browser again and open URL : localhost:8000/tasks
+
+
+						NOW YOUR PROJECT STARTS 
